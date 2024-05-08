@@ -1,8 +1,6 @@
 ## Live Demo
 **You can see the `React Tic Tac Toe App` Live On:** [Here](https://barak-ticiactoe.netlify.app/)
 
-
-
 # React Tic-tac-toe Game
 
 This repository contains a simple yet efficient Tic-tac-toe game built using React. The application is structured with components handling different aspects of React, promoting clean and organized code.
@@ -16,8 +14,8 @@ This repository contains a simple yet efficient Tic-tac-toe game built using Rea
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/natikozel/React-TicTacToe.git`
-2. Navigate to the project directory: `cd React-TicTacToe`
+1. Clone the repository: `git clone https://github.com/Barak-Kuzi/React-Tic-Tac-Toe.git`
+2. Navigate to the project directory: `cd React-Tic-Tac-Toe`
 3. Install dependencies: `npm install`
 
 ## Usage
